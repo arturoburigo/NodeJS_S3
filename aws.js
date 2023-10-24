@@ -134,6 +134,9 @@ async function deleteBucket() {
     console.log(response)
 }
 
+//OBS: Execute one by one
+
+
 //createBucket('arturo-first-bucket')
 //uploadFile()
 //createBucket('arturo-bucket')
@@ -142,4 +145,4 @@ async function deleteBucket() {
 //getBucketObjects()
 //presignedURL()
 //deleteBucketObjects()
-deleteBucket()
+//deleteBucket()
